@@ -1,0 +1,28 @@
+[debug] [2023-03-04T19:57:36.756Z] ----------------------------------------------------------------------
+[debug] [2023-03-04T19:57:36.758Z] Command:       /Users/jackdouglas/.nodenv/versions/16.15.1/bin/node /Users/jackdouglas/.nodenv/versions/16.15.1/bin/firebase init
+[debug] [2023-03-04T19:57:36.758Z] CLI Version:   11.24.0
+[debug] [2023-03-04T19:57:36.758Z] Platform:      darwin
+[debug] [2023-03-04T19:57:36.759Z] Node Version:  v16.15.1
+[debug] [2023-03-04T19:57:36.760Z] Time:          Sat Mar 04 2023 19:57:36 GMT+0000 (Greenwich Mean Time)
+[debug] [2023-03-04T19:57:36.760Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-03-04T19:57:36.769Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-03-04T19:57:36.770Z] > authorizing via signed-in user (jjd1990test@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/jackdouglas/Desktop/VSC/dronetracker
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
